@@ -30,3 +30,17 @@ Kullanıcıların şehir adını girerek hava durumu bilgilerini API aracılığ
 2. Tarayıcınızda `index.html` dosyasını açarak projeyi çalıştırın.
 
 
+
+![Uygulama Ici Ekran Görüntüsü 1](img/uygulamaIciResimler/UygulamaIciResim1.PNG)
+
+
+![Uygulama Ici Ekran Görüntüsü 2](img/uygulamaIciResimler/UygulamaIciResim2.PNG)
+
+
+![Uygulama Ici Ekran Görüntüsü 3](img/uygulamaIciResimler/UygulamaIciResim3.PNG)
+
+
+![Uygulama Ici Ekran Görüntüsü 4](img/uygulamaIciResimler/UygulamaIciResim4.PNG)
+
+
+![Uygulama Ici Ekran Görüntüsü 5](img/uygulamaIciResimler/UygulamaIciResim5.PNG)
